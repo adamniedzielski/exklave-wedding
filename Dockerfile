@@ -1,5 +1,5 @@
 FROM ruby:3.1.0-alpine AS dev
-RUN apk add build-base bash
+RUN apk add build-base git bash
 WORKDIR /app
 ENV BUNDLE_PATH=/bundle \
     BUNDLE_BIN=/bundle/bin \
