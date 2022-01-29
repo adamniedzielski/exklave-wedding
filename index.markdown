@@ -2,94 +2,81 @@
 layout: default
 ---
 
-<h1>Exklave Wedding</h1>
-<p>
-  <a href="https://de.wikipedia.org/wiki/Exklave">Exklave</a> Wedding ist ein Teil von dem Wedding, der sich zwar geographisch in Pankow
-  befindet, aber emotionell, kulturell und politisch zu dem Wedding gehört.
-</p>
+# Exklave Wedding
 
-<h2>Lage</h2>
+[Exklave](https://de.wikipedia.org/wiki/Exklave) Wedding ist ein Teil von dem Wedding, der sich
+zwar geographisch in Pankow befindet, aber emotionell, kulturell und politisch zu dem Wedding
+gehört.
 
-<p>
-  Westerlandstraße 2<br>
-  2 OG rechts<br>
-  13189 Berlin
-</p>
-<p>
-  <a href="https://www.google.com/maps/place/Exklave+Wedding/@52.5578731,13.4129463,17z/data=!3m1!4b1!4m5!3m4!1s0x47a853920414044f:0xe9bd641e18d380af!8m2!3d52.5578731!4d13.415135">Google Maps</a>
-</p>
+## Lage
 
-<h2>Medien</h2>
+Westerlandstraße 2<br>
+2 OG rechts<br>
+13189 Berlin
 
-<p>
-  Exklave Wedding ist ein interdisziplinäres Kunstprojekt. Es benutzt folgende Medien:
-</p>
+[Google Maps](https://www.google.com/maps/place/Exklave+Wedding/@52.5578731,13.4129463,17z/data=!3m1!4b1!4m5!3m4!1s0x47a853920414044f:0xe9bd641e18d380af!8m2!3d52.5578731!4d13.415135)
 
-<ul>
-  <li>Musik und Tanz</li>
-  <li>Sprache und Ironie</li>
-  <li>Rauschmittel</li>
-  <li>neue Technologien</li>
-  <li>Pflanzen und Natur</li>
-  <li>Menschen</li>
-  <li>Stickers</li>
-  <li>Handyphotos</li>
-</ul>
 
-<h2>Themen</h2>
+## Medien
 
-<p>
-  Exklave Wedding geht davon aus, dass alles miteinander verbunden ist.
-  Das Projekt beschäftigt sich deswegen mit folgenden Themen:
-</p>
+Exklave Wedding ist ein interdisziplinäres Kunstprojekt. Es benutzt folgende Medien:
 
-<ul>
-  <li>Migration und Vertreibung</li>
-  <li>Wohnpolitik und Lebensraum</li>
-  <li>Geschichte</li>
-  <li>Fahrrad fahren</li>
-  <li>Psychologie und Wahrnehmung</li>
-</ul>
+- Musik und Tanz
+- Sprache und Ironie
+- Rauschmittel
+- neue Technologien
+- Pflanzen und Natur
+- Menschen
+- Stickers
+- Handyphotos
 
-<h2>Kollektiv</h2>
-<p>
-  Exklave Wedding ist ein Projekt von dem Künstlerkollektiv Exklave Wedding. Das
-  Kollektiv ist 100% kommunistich.
-</p>
+## Themen
 
-<p>Mitglieder:</p>
-<ul>
-  <li>Adam Niedzielski / adamsunday / DJ adam_slow / Adam Sonntag</li>
-  <li><a href="https://soundcloud.com/baommusic">Baom</a></li>
-  <li>Falka</li>
-</ul>
+Exklave Wedding geht davon aus, dass alles miteinander verbunden ist. Das Projekt beschäftigt
+sich deswegen mit folgenden Themen:
 
-<p>
-  Das Kollektiv trifft Entscheidungen 100% demokratisch und viele Faktoren kommen ins Spiel. Die wichtigste Frage bleibt aber immer "WITZIG oder NICHT WITZIG?"
-</p>
+- Migration und Vertreibung
+- Wohnpolitik und Lebensraum
+- Geschichte
+- Fahrrad fahren
+- Psychologie und Wahrnehmung
 
-<p>
-  Du kannst das Kollektiv gerne beitreten. Drucke <a href="application-form.pdf">dieses Formular</a> aus, fülle es und schicke einfach und gemütlich per Post.
-  Elektronische Übertragung ist leider nicht mit der deutschen Leitkultur vereinbar.
-</p>
+## Kollektiv
 
-<h2>Veranstaltungen</h2>
+Exklave Wedding ist ein Projekt von dem Künstlerkollektiv Exklave Wedding. Das Kollektiv ist
+100% kommunistich.
 
-<ul>
-  <li><b>Exklave Wedding <a href="https://www.youtube.com/watch?v=C8G5MP4ZU4M">auf Malle</a> - Aufnahme diplomatischer Beziehungen mit dem 17. Bundesland</b> - 29.01.2022 - 12.02.2022 - ausgebucht</li>
-  <li><b>Berlinale meets Exklave Wedding - Live stream aus der Berlinale 2020</b> - 13.02.2022 18:00 - nur Gästeliste</li>
-  <li><b>Exklave Wedding goes Critical #14</b> - 25.02.2022 20:00 - Mariannenplatz</li>
-</ul>
+Mitglieder:
 
-<a href="/past-events">Sehe vergangene Veranstaltungen</a>
+- Adam Niedzielski / adamsunday / DJ adam_slow / Adam Sonntag
+- [Baom](https://soundcloud.com/baommusic)
+- Falka
 
-<h2>Rechtliche Verantwortung und Haftung</h2>
-<p>
-  Exklave Wedding ist ein Kunstprojekt. <a href="https://www.youtube.com/watch?v=Y-B0lXnierw">Das ist alles von der Kunstfreiheit gedeckt</a>. Bei Verlust oder Diebstahl übernehmen wir keine Haftung.
-</p>
+Das Kollektiv trifft Entscheidungen 100% demokratisch und viele Faktoren kommen ins Spiel. Die
+wichtigste Frage bleibt aber immer "WITZIG oder NICHT WITZIG?"
 
-<h2>Fahne</h2>
+Du kannst das Kollektiv gerne beitreten. Drucke [dieses Formular](application-form.pdf) aus,
+fülle es und schicke einfach und gemütlich per Post. Elektronische Übertragung ist leider nicht
+mit der deutschen Leitkultur vereinbar.
 
-<p>Die Fahne von der Exklave Wedding ist "Progress Pride flag" by Daniel Quasar.</p>
+## Veranstaltungen
+
+- **Exklave Wedding [auf Malle](https://www.youtube.com/watch?v=C8G5MP4ZU4M) - Aufnahme
+diplomatischer Beziehungen mit dem 17. Bundesland** - 29.01.2022 - 12.02.2022 - ausgebucht
+- **Berlinale meets Exklave Wedding - Live stream aus der Berlinale 2020** - 13.02.2022 18:00 -
+nur Gästeliste
+- **Exklave Wedding goes Critical #14** - 25.02.2022 20:00 - Mariannenplatz
+
+[Sehe vergangene Veranstaltungen](/past-events)
+
+## Rechtliche Verantwortung und Haftung
+
+Exklave Wedding ist ein Kunstprojekt.
+[Das ist alles von der Kunstfreiheit gedeckt](https://www.youtube.com/watch?v=Y-B0lXnierw).
+Bei Verlust oder Diebstahl übernehmen wir keine Haftung.
+
+## Fahne
+
+Die Fahne von der Exklave Wedding ist "Progress Pride flag" by Daniel Quasar.
 
 <img src="flag.svg" style="width:10em">
