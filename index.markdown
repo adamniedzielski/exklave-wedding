@@ -66,6 +66,8 @@ diplomatischer Beziehungen mit dem 17. Bundesland** - 29.01.2022 - 12.02.2022 - 
 - **Berlinale meets Exklave Wedding - Live stream aus der Berlinale 2020** - 13.02.2022 18:00 -
 nur Gästeliste
 - **Exklave Wedding goes Critical #14** - 25.02.2022 20:00 - Mariannenplatz
+- **Läuft bei dir - [Berliner Halbmarathon](https://www.generali-berliner-halbmarathon.de/)** -
+03.04.2022 ab 10 Uhr - Zuschauer gesucht
 
 [Sehe vergangene Veranstaltungen](/past-events)
 
