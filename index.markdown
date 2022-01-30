@@ -69,6 +69,8 @@ nur Gästeliste
 - **Läuft bei dir - [Berliner Halbmarathon](https://www.generali-berliner-halbmarathon.de/)** -
 03.04.2022 ab 10 Uhr - Zuschauer gesucht
 - **Roter Wedding besucht Problemkiez Grunewald** - 01.05.2022
+- **[Zurück zu den Wurzeln](https://www.wurzelfestival.de/) von Rudolf de Weddinghe** -
+09.06.2022 – 12.06.2022 - Wurzelkinder gesucht
 
 [Sehe vergangene Veranstaltungen](/past-events)
 
