@@ -24,7 +24,7 @@ Exklave Wedding ist ein interdisziplinäres Kunstprojekt. Es benutzt folgende Me
 - Musik und Tanz
 - Sprache und Ironie
 - Rauschmittel
-- neue Technologien
+- [neue Technologien](https://github.com/adamniedzielski/exklave-wedding)
 - Pflanzen und Natur
 - Menschen
 - Stickers
