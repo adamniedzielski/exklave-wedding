@@ -1,0 +1,11 @@
+title: Exklave Wedding
+description: >- # this means to ignore newlines until "baseurl:"
+  Exklave Wedding ist ein Teil von dem Wedding, der sich zwar geographisch
+  in Pankow befindet, aber emotionell, kulturell und politisch zu dem Wedding gehört.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.exklave-wedding.de" # the base hostname & protocol for your site, e.g. http://example.com
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
