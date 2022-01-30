@@ -35,7 +35,7 @@ Exklave Wedding ist ein interdisziplinäres Kunstprojekt. Es benutzt folgende Me
 Exklave Wedding geht davon aus, dass alles miteinander verbunden ist. Das Projekt beschäftigt
 sich deswegen mit folgenden Themen:
 
-- Migration und Vertreibung
+- [Migration und Vertreibung](https://docs.google.com/document/d/1wl599Cages39unKY_Ui4S72J7MMDqJCYWCwdK2MtZqw)
 - Wohnpolitik und Lebensraum
 - Geschichte
 - Fahrrad fahren
