@@ -7,8 +7,21 @@
     <meta property="og:description" content="{{page.description | default: site.description}}" />
     <meta name="description" content="{{page.description | default: site.description}}" />
     <title>{{page.title | default: site.title}}</title>
+
+    <style type="text/css">
+      body {
+        display: flex;
+        justify-content: center;
+      }
+
+      .container {
+        max-width: 70em;
+      }
+    </style>
   </head>
   <body>
-    {{content}}
+    <div class="container">
+      {{content}}
+    </div>
   </body>
 </html>
