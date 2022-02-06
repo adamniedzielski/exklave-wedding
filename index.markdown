@@ -71,6 +71,7 @@ nur Gästeliste
 - **Roter Wedding besucht Problemkiez Grunewald** - 01.05.2022
 - **[Zurück zu den Wurzeln](https://www.wurzelfestival.de/) von Rudolf de Weddinghe** -
 09.06.2022 – 12.06.2022 - Wurzelkinder gesucht
+- **30 Jahre und noch am Leben? Exklave feiert den Geburtstag von DJ adam_slow** - 05.08.2022
 
 [Sehe vergangene Veranstaltungen](/past-events)
 
