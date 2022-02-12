@@ -53,7 +53,10 @@ Mitglieder:
 - Falka
 
 Das Kollektiv trifft Entscheidungen 100% demokratisch und viele Faktoren kommen ins Spiel. Die
-wichtigste Frage bleibt aber immer "WITZIG oder NICHT WITZIG?"
+wichtigste Frage bleibt aber immer "WITZIG oder NICHT WITZIG?". Wenn eine Entscheidung getroffen
+werden muss, ist ein Treffen mit allen Mitgliedern zu vermeiden. Stattdessen frag einfach einen
+anderen Mitglied, rede zu zweit und dann er / sie fragt einen weiteren Mitglied, bis alle
+zustimmen. Das ist zwar nicht besonders effizient, aber dafür sehr WITZIG.
 
 Du kannst das Kollektiv gerne beitreten. Drucke [dieses Formular](application-form.pdf) aus,
 fülle es und schicke einfach und gemütlich per Post. Elektronische Übertragung ist leider nicht
