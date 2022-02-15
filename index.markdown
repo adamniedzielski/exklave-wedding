@@ -64,8 +64,6 @@ mit der deutschen Leitkultur vereinbar.
 
 ## Veranstaltungen
 
-- **Berlinale meets Exklave Wedding - Live stream aus der Berlinale 2020** - 13.02.2022 18:00 -
-nur Gästeliste
 - **Exklave Wedding goes Critical #14** - 25.02.2022 20:00 - Mariannenplatz
 - **[Läuft](https://open.spotify.com/playlist/24Zn88p9HNunHliwW6WITj?si=cf1ccb66d7c248a3) bei
 dir - [Berliner Halbmarathon](https://www.generali-berliner-halbmarathon.de/)** -
