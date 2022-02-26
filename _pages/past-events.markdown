@@ -5,6 +5,7 @@ title: Exklave Wedding - Vergangene Veranstaltungen
 
 # Exklave Wedding - Vergangene Veranstaltungen
 
+- **Exklave Wedding goes Critical #14 - PUTIN RAUS** - 25.02.2022 20:00 - Mariannenplatz
 - **Berlinale meets Exklave Wedding - Live stream aus der Berlinale 2020** - 13.02.2022 18:00 -
 nur Gästeliste
 - **Exklave Wedding [auf Malle](https://www.youtube.com/watch?v=C8G5MP4ZU4M) - Aufnahme
