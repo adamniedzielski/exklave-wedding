@@ -74,6 +74,10 @@ dir - [Berliner Halbmarathon](https://www.generali-berliner-halbmarathon.de/)** 
 
 [Sehe vergangene Veranstaltungen](/past-events)
 
+## Partners
+
+- [Sisyphos](https://sisyphos-berlin.net/)
+
 ## Rechtliche Verantwortung und Haftung
 
 Exklave Wedding ist ein Kunstprojekt.
