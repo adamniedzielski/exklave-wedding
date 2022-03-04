@@ -65,7 +65,7 @@ mit der deutschen Leitkultur vereinbar.
 ## Veranstaltungen
 
 {% for event in site.events %}
-- **{{event.name}}** - {{event.display_date}} {% if event.audience_status %} - {{event.audience_status}} {% endif %} {% endfor %}
+- **{{event.name}}** - {{event.display_date}} {% if event.guest_location %} - {{event.guest_location}} {% endif %}{% if event.audience_status %} - {{event.audience_status}} {% endif %} {% endfor %}
 
 [Sehe vergangene Veranstaltungen](/past-events)
 
