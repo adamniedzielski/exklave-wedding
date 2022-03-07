@@ -10,3 +10,7 @@ collections:
     output: true
     permalink: /:path/
   events:
+    output: true
+    permalink: /events/:path
+
+future: true
