@@ -14,3 +14,11 @@ collections:
     permalink: /events/:path
 
 future: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "events"
+    values:
+      layout: "default"
