@@ -1,0 +1,7 @@
+---
+name: "Exklave Wedding goes Critical #15"
+date: 2022-03-25
+display_date: "25.03.2022 20:00"
+guest_location: "Mariannenplatz"
+audience_status: "lass uns Drogen nehm und rumfahrn"
+---
