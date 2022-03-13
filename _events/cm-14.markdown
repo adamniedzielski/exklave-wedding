@@ -1,0 +1,6 @@
+---
+name: "Exklave Wedding goes Critical #14 - PUTIN RAUS"
+date: 2022-02-25
+display_date: "25.02.2022 20:00"
+guest_location: "Mariannenplatz"
+---

@@ -1,0 +1,6 @@
+---
+name: "Exklave Wedding goes Critical #13"
+date: 2022-01-28
+display_date: "28.01.2022 20:00"
+guest_location: "Mariannenplatz"
+---
