@@ -1,8 +1,10 @@
 ---
-layout: default
-title: 1 Jahr Exklave Wedding
-description: Kunstveranstaltung 1 Jahr Exklave Wedding
 permalink: 1-jahr
+name: "1 Jahr Exklave Wedding"
+date: 2022-01-15
+display_date: "15.01.2022"
+audience_status: "nur Gästeliste"
+dedicated_page: true
 ---
 
 # 1 Jahr Exklave Wedding - Kunstveranstaltung
