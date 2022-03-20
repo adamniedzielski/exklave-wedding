@@ -1,7 +1,11 @@
 ---
-name: "[Wedding kämpft](https://www.sexuelle-selbstbestimmung.de/17757/pressemitteilung-frauenkampftag-2022-der-kampf-geht-weiter/) für Fraun*"
+name: "Wedding kämpft für Fraun*"
 date: 2022-03-08
 display_date: "08.03.2022 11:00 - 14:00"
 guest_location: "Widerstandsplatz (Nettelbeckplatz)"
 audience_status: "Alle auf die Straße"
+dedicated_page: true
 ---
+
+[Demo](https://www.sexuelle-selbstbestimmung.de/17757/pressemitteilung-frauenkampftag-2022-der-kampf-geht-weiter/)
+[Playlist](https://open.spotify.com/playlist/1FmId3HkOn2q9LcwOVAoBU?si=4edb971d93cb4fa5)
