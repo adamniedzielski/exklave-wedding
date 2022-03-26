@@ -1,0 +1,6 @@
+---
+name: "Exklave Wedding goes Critical #16"
+date: 2022-04-29
+display_date: "29.04.2022 20:00"
+guest_location: "Mariannenplatz"
+---
