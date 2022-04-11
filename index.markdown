@@ -75,6 +75,11 @@ mit der deutschen Leitkultur vereinbar.
 
 - [Sisyphos](https://sisyphos-berlin.net/)
 
+
+## Kontakt
+
+[apparat@exklave-wedding.de](mailto:apparat@exklave-wedding.de)
+
 ## Rechtliche Verantwortung und Haftung
 
 Exklave Wedding ist ein Kunstprojekt.
