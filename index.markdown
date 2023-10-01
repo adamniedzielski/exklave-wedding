@@ -10,8 +10,7 @@ gehört.
 
 ## Lage
 
-Westerlandstraße 2<br>
-2 OG rechts<br>
+Westerlandstraße 10<br>
 13189 Berlin
 
 [Google Maps](https://www.google.com/maps/place/Exklave+Wedding/@52.5578731,13.4129463,17z/data=!3m1!4b1!4m5!3m4!1s0x47a853920414044f:0xe9bd641e18d380af!8m2!3d52.5578731!4d13.415135)
