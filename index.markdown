@@ -20,7 +20,7 @@ Westerlandstraße 10<br>
 
 Exklave Wedding ist ein interdisziplinäres Kunstprojekt. Es benutzt folgende Medien:
 
-- Musik und Tanz
+- [Musik](https://soundcloud.com/adam_slow) und Tanz
 - Sprache und Ironie
 - Rauschmittel
 - [neue Technologien](https://github.com/adamniedzielski/exklave-wedding)
