@@ -47,7 +47,7 @@ Exklave Wedding ist ein Projekt von dem Künstlerkollektiv Exklave Wedding. Das 
 
 Mitglieder:
 
-- Adam Niedzielski / adamsunday / DJ adam_slow / Adam Sonntag
+- Adam Niedzielski / adamsunday / DJ adam_slow / Adam Sonntag vel von Sonntag
 - [Baom](https://soundcloud.com/baommusic)
 - Falka
 
