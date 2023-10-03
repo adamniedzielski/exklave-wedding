@@ -51,6 +51,10 @@ Mitglieder:
 - [Baom](https://soundcloud.com/baommusic)
 - Falka
 
+Freude des Hauses:
+
+- [Mitch](https://soundcloud.com/mitchjconnolly)
+
 Das Kollektiv trifft Entscheidungen 100% demokratisch und viele Faktoren kommen ins Spiel. Die
 wichtigste Frage bleibt aber immer "WITZIG oder NICHT WITZIG?". Wenn eine Entscheidung getroffen
 werden muss, ist ein Treffen mit allen Mitgliedern zu vermeiden. Stattdessen frag einfach einen
