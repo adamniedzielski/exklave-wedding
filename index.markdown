@@ -77,11 +77,15 @@ mit der deutschen Leitkultur vereinbar.
 ## Partners
 
 - [Sisyphos](https://sisyphos-berlin.net/)
+- [Frank](https://digitalcourage.de/frank-geht-ran)
 
 
 ## Kontakt
 
+[+49 1631 737743](tel:+491631737743)<br>
 [apparat@exklave-wedding.de](mailto:apparat@exklave-wedding.de)
+
+Bitte den Telefon<u>apparat</u> benutzen.
 
 ## Rechtliche Verantwortung und Haftung
 
