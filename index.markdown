@@ -24,7 +24,7 @@ Exklave Wedding ist ein interdisziplinäres Kunstprojekt. Es benutzt folgende Me
 - Sprache und Ironie
 - Rauschmittel
 - [neue Technologien](https://github.com/adamniedzielski/exklave-wedding)
-- Pflanzen und Natur
+- [Pflanzen und Natur](/slowbeet)
 - Menschen
 - Stickers
 - [Handyphotos](https://www.instagram.com/exklave_wedding/)
