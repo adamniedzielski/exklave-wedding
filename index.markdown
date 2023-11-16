@@ -78,6 +78,7 @@ mit der deutschen Leitkultur vereinbar.
 
 - [Sisyphos](https://sisyphos-berlin.net/)
 - [Frank](https://digitalcourage.de/frank-geht-ran)
+- [Berliner Energieagentur](https://www.berliner-e-agentur.de)
 
 
 ## Kontakt
