@@ -1,0 +1,8 @@
+---
+name: "Kur"
+date: 2022-09-26
+display_date: "H2 2022"
+dedicated_page: true
+---
+
+this page intentionally left blank
