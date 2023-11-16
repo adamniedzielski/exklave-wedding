@@ -6,4 +6,4 @@ guest_location: "Sisy Kunstmarkt"
 dedicated_page: false
 ---
 
-- Alt G(l|r)as Verkauf
+- Alt G`(l|r)`as Verkauf
