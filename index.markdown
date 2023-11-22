@@ -10,6 +10,8 @@ gehört.
 
 ## Lage
 
+Eher im Norden als im Süden, östlicher Teil vom Wedding.
+
 Westerlandstraße 10<br>
 13189 Berlin
 
