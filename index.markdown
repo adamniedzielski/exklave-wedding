@@ -4,9 +4,7 @@ layout: default
 
 # Exklave Wedding
 
-[Exklave](https://de.wikipedia.org/wiki/Exklave) Wedding ist ein Teil von dem Wedding, der sich
-zwar geographisch in Pankow befindet, aber emotionell, kulturell und politisch zu dem Wedding
-gehört.
+[Exklave](https://de.wikipedia.org/wiki/Enklave) im Norden ist ein Teil von dem Wedding und Pankow.
 
 ## Lage
 
