@@ -4,7 +4,6 @@ date: 2023-12-01
 display_date: "01.12.2023 bis Open Ente"
 audience_status: "nur Gästeliste"
 guest_location: "PA58"
-dedicated_page: true
 ---
 
 **Caffè Floor**
