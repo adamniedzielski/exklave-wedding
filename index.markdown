@@ -96,6 +96,6 @@ Bei Verlust oder Diebstahl übernehmen wir keine Haftung.
 
 ## Fahne
 
-Die Fahne von der Exklave Wedding ist "Progress Pride flag" by Daniel Quasar.
+Die Fahne von der Exklave Wedding ist rotated "Progress Pride flag" by Daniel Quasar.
 
-<img src="flag.svg" style="width:10em">
+<img src="flag.svg" style="width:10em;transform:rotate(-90deg);transform-origin:center right;">
