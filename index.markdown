@@ -54,6 +54,7 @@ Mitglieder:
 Freude des Hauses:
 
 - [Mitch](https://soundcloud.com/mitchjconnolly)
+- [DJ Jonas](https://soundcloud.com/dj_jonas_hh)
 
 Das Kollektiv trifft Entscheidungen 100% demokratisch und viele Faktoren kommen ins Spiel. Die
 wichtigste Frage bleibt aber immer "WITZIG oder NICHT WITZIG?". Wenn eine Entscheidung getroffen
