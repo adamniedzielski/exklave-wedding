@@ -1,4 +1,4 @@
-FROM ruby:3.0.6-alpine AS dev
+FROM ruby:3.2.2-alpine AS dev
 RUN apk add build-base git bash
 WORKDIR /app
 ENV BUNDLE_PATH=/bundle \
