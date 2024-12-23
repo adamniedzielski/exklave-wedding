@@ -95,7 +95,7 @@ Exklave Wedding ist ein Kunstprojekt.
 [Das ist alles von der Kunstfreiheit gedeckt](https://www.youtube.com/watch?v=Y-B0lXnierw).
 Bei Verlust oder Diebstahl übernehmen wir keine Haftung.
 
-Hier gibt es aber [ein Impressum](https://exklave-wedding.org) als ein externer Link.
+Hier gibt es aber [ein Impressum](/impressum).
 
 ## Fahne
 
